@@ -1,11 +1,16 @@
 _repo: Legendary-Islands-of-the-Atlantic-A-Study-of-Medieval-Geography_65103
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65103-h/images/cover.jpg
 creator:
   author:
     agent_name: Babcock, William Henry
     gutenberg_agent_id: '53184'
     url: http://www.gutenberg.org/2009/agents/53184
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65103#Legendary-Islands-of-the-Atlantic-A-Study-of-Medieval-Geography
 gutenberg_issued: '2021-04-18'
 gutenberg_type: Text
 identifiers:
